@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753032129973",
+    "project_id": "room-book-app",
+    "storage_bucket": "room-book-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753032129973:android:5b926fefde2a8911fdfdfc",
+        "android_client_info": {
+          "package_name": "com.manishpawar.room_book_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753032129973-qn7473vov32dag5b926otavm6i363sdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7DxT5WaIO95VFbOgFb-O-abzPWC4-xzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753032129973-qn7473vov32dag5b926otavm6i363sdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
